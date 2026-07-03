@@ -4,8 +4,6 @@ expenses = []
 print(".....Welcome to Expense traker.....")
 print("Karcha kam kiya karo!")
 
-# choice = int(input("Please enter your Choice: "))
-
 while True:
     print("====Menu====")
     print("1. Add Expenses")
